@@ -6,7 +6,7 @@ import java.util.*;
 import org.json.JSONObject;
 import org.json.JSONArray;
 
-public class Main {
+public class mrpack_util {
      static Scanner sc = new Scanner(System.in);
      
      public static void main(String[] args) {
