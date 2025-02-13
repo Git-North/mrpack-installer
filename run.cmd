@@ -1,2 +1,2 @@
-java -cp "%~dp0json.jar;." Main
+java -cp "%~dp0json.jar;." mrpack-utils
 pause
